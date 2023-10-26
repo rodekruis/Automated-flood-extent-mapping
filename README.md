@@ -1,1 +1,1 @@
-# Automated-extent-mapping
+# Automated extent mapping
