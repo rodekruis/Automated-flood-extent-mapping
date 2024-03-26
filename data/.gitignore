@@ -1,2 +1,5 @@
 *
 !.gitignore
+!/inference_sample
+!/inference_sample/**
+/inference_sample/output/**

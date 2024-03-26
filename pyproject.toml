@@ -22,6 +22,13 @@ ttach = "^0.0.3"
 segmentation-models-pytorch = {git = "https://github.com/qubvel/segmentation_models.pytorch"}
 opencv-python = "^4.9.0.80"
 ipywidgets = "^8.1.1"
+plotly = "^5.18.0"
+pyarrow = "^15.0.0"
+pydensecrf = {git = "https://github.com/lucasb-eyer/pydensecrf.git"}
+ray = "^2.9.2"
+scikit-learn = "^1.4.0"
+scikit-image = "^0.22.0"
+cython = "^3.0.8"
 
 
 
